@@ -1,5 +1,5 @@
 requirements: [QB, WR, WR, WR, RB, RB, TE, FLEX]
-# requirements: [QB, WR, WR, WR, RB, RB, TE, RB]
+pick: 1
 teams: 10
 
 scoring:

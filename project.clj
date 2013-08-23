@@ -6,5 +6,11 @@
                  [org.clojure/math.combinatorics "0.0.4"]
                  [clj-yaml "0.4.0"]
                  [org.clojure/java.jdbc "0.0.6"]
-                 [org.xerial/sqlite-jdbc "3.7.2"]]
+                 [org.xerial/sqlite-jdbc "3.7.2"]
+                 [http-kit "2.1.10"]
+                 [compojure "1.1.5"]
+                 [hiccup "1.0.4"]
+                 [ring/ring-devel "1.1.8"]
+                 [ring/ring-core "1.1.8"]
+                 [cheshire "5.2.0"]]
   :main watson.core)
